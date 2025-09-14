@@ -5,4 +5,3 @@ income of the loan applicant, loan amount, number of dependents, credit history 
 
 This kind of work is useful in for banks and fintech organization for automated loan application processing in real time.
 
-For building such projects and Learning data science, AI and analytics contact us at https://inttrvu.ai
